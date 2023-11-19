@@ -1,2 +1,5 @@
 # peterk54.github.io
-simpe test github.io with web-ble ...
+
+simple test github.io with web-ble ...
+thanks to ruis santos -> https://randomnerdtutorials.com
+
