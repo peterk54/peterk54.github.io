@@ -1,0 +1,9 @@
+
+howto.txt - peterk54.github.io
+
+git add --all
+git commint -m "Initial commit"
+git push -u origin main
+
+help:
+-> https://pages.github.com/
